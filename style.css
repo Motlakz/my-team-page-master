@@ -1,0 +1,121 @@
+body {
+    width :100vw;
+    box-sizing:border-box;
+   
+}
+h3 {
+    letter-spacing: -0.035em;
+    font-size: 30px;
+    font-family: PT Serif;
+    margin-left: 8em;
+}
+.container {
+    width: 100%;
+    position: relative;
+    left: 15em;
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-template-rows: 50% 50% 50%;
+    column-gap: 1em;
+    row-gap: 3em;
+}
+.nametags {
+    font-family: Poppins;
+    font-weight: 600;
+    position: relative;
+    left: 15em;
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-template-rows: 50% 50% 50%;
+    column-gap: 1em;
+    row-gap: 3em;
+}
+.container .pic1, .pic2, .pic3, .pic4, .pic5, .pic6 {
+    width: 200px;
+    height: 300px;
+}
+h5, p {
+    font-family: Poppins;
+    position: relative;
+    left: 45em;
+    bottom: 75px;   
+}
+h5 {
+    word-spacing: 2px;
+    position: relative;
+    line-height: 1px;
+    left: 54.2em;
+}
+.pic2, .pic5 {
+    margin-top: 80px;
+}
+.first, .third {
+    position: relative;
+    bottom: 34em;
+}
+.fourth, .sixth {
+    position: relative;
+    bottom: 12em;
+}
+.fifth {
+    position: relative;
+    bottom: 7em;
+}
+.second {
+    position: relative;
+    bottom: 29em;
+}
+
+footer {
+    text-align: center;
+}
+.name {
+    color: #808080;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titles {
+    transform: rotate(90deg);
+    letter-spacing: -0.035em;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: PT Serif;
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-template-rows: 50% 50% 50%;
+    column-gap: 1em;
+    row-gap: 3em;
+}
+.one {
+    position: relative;
+    right: 20em;
+    top: 24em;
+}
+.two {
+    position: relative;
+    right: 36em;
+    top: 2.5em;
+}
+.three {
+    position: relative;
+    right: 62.7em;
+    bottom: 280px;
+}
+
+
+.four {
+    position: relative;
+    left: 175px;
+    top: 16.7em;
+}
+
+
+.five {
+    position: relative;
+    right: 4.3em;
+    bottom: 4.5em;
+}
+.six {
+    position: relative;
+    right: 31em;
+    bottom: 25.8em;
+}
