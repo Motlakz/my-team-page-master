@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://www.loom.com/share/7250ab55d6a5404c8a7269c1c8d82a20">
+    <a href="https://www.loom.com/share/7250ab55d6a5404c8a7269c1c8d82a20?sharedAppSource=personal_library">
       Demo
     </a>
     <span> | </span>
@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](https://https://www.loom.com/share/7250ab55d6a5404c8a7269c1c8d82a20)
+![screenshot](https://www.loom.com/share/7250ab55d6a5404c8a7269c1c8d82a20?sharedAppSource=personal_library)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
