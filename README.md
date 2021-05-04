@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](https://www.loom.com/share/7250ab55d6a5404c8a7269c1c8d82a20?sharedAppSource=personal_library)
+![screenshot](https://i.imgur.com/iRQi6nM.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
