@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.loom.com/share/7250ab55d6a5404c8a7269c1c8d82a20?sharedAppSource=personal_library">
+    <a href="https://motlakz.github.io/my-team-page-master/">
       Demo
     </a>
     <span> | </span>
